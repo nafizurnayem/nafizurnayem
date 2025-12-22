@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Md. Nafizur Nayem
+# 👋 Hi, I'm Nafizur Nayem
 
 ### 🤖 AI/ML Researcher | 🧠 NLP Enthusiast | 💬 LLM Developer | 🤖 Robotics Engineer
 
