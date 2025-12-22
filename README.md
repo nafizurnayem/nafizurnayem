@@ -123,7 +123,7 @@
 <div align="center">
 
 📧 **Email**: nafizurnayem@gmail.com  
-💼 **LinkedIn**: [nafizur-nayem-38055b335](https://www.linkedin.com/in/nafizur-nayem-38055b335/)  🐦 **Twitter**: [@NafizurNayem](https://twitter.com/NafizurNayem)
+💼 **LinkedIn**: [nafizur-nayem-38055b335](https://www.linkedin.com/in/nafizur-nayem-38055b335/)
 🐦 **Twitter**: [@NafizurNayem](https://x.com/NafizurNayem)  
 🐛 **GitHub**: [nafizurnayem](https://github.com/nafizurnayem)  
 📱 **Facebook**: [nafizurnayeme](https://www.facebook.com/nafizurnayeme/)  
