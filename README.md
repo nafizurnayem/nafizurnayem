@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Md. Nafizur Nayem
 
-### 🤖 AI/ML Researcher | 🧠 NLP Enthusiast | 💬 LLM Developer
+### 🤖 AI/ML Researcher | 🧠 NLP Enthusiast | 💬 LLM Developer | 🤖 Robotics Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-nafizur-nayem-060278200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,8 +17,9 @@
 ## 🚀 About Me
 
 🎓 **Computer Science Student** at American International University, Bangladesh  
-🔬 Passionate about **Artificial Intelligence**, **Natural Language Processing**, and **Large Language Models**  
+🔬 Passionate about **Artificial Intelligence**, **Natural Language Processing**, and **Large Language Models** , and **Robotics**  
 💻 Experienced in building **ML models**, conducting **research**, and developing **AI-driven solutions**  
+🤖 Skilled in **robotics development**, building **line-following robots**, and working with **Arduino IDE**  
 📊 Active in **academic research** with focus on AI detection and model optimization  
 🌱 Currently exploring **LLM fine-tuning**, **transformer architectures**, and **deep learning**
 
@@ -57,6 +58,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+### 🤖 Robotics & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-5588FF?style=for-the-badge&logo=easyeda&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -78,6 +85,7 @@
 - **AI Data Science Roadmap**: Comprehensive guide for ML/AI learning path
 - **Machine Learning Models**: Various ML implementations and experiments
 - **NLP Applications**: Text processing and language understanding projects
+- - **Robotics Projects**: Line-following robots, Arduino-based automation systems
 
 ---
 
