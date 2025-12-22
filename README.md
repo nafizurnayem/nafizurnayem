@@ -93,7 +93,7 @@
 - **AI Data Science Roadmap**: Comprehensive guide for ML/AI learning path
 - **Machine Learning Models**: Various ML implementations and experiments
 - **NLP Applications**: Text processing and language understanding projects
-- - **Robotics Projects**: Line-following robots, Arduino-based automation systems
+- **Robotics Projects**: Line-following robots, Arduino-based automation systems
 
 ---
 
@@ -104,7 +104,7 @@
 - 🤖 **Deep Learning**: Neural networks, transformers, attention mechanisms
 - 📊 **AI Detection**: Methods for identifying AI-generated content
 - 💡 **Model Optimization**: Improving efficiency and performance of ML models
-- - 🌐 **Internet of Things (IoT)**: Smart devices, sensor networks, and connected systems
+- 🌐 **Internet of Things (IoT)**: Smart devices, sensor networks, and connected systems
 
 ---
 
