@@ -104,6 +104,7 @@
 - 🤖 **Deep Learning**: Neural networks, transformers, attention mechanisms
 - 📊 **AI Detection**: Methods for identifying AI-generated content
 - 💡 **Model Optimization**: Improving efficiency and performance of ML models
+- - 🌐 **Internet of Things (IoT)**: Smart devices, sensor networks, and connected systems
 
 ---
 
