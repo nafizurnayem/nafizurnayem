@@ -38,6 +38,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -126,8 +130,7 @@
 🎓 **Google Scholar**: Md Nafizur Nayem  
 🔬 **ResearchGate**: [Md-Nayem-9](https://www.researchgate.net/profile/Md-Nayem-9)  
 🎵 **Spotify**: [My Profile](https://open.spotify.com/user/31v4sdaoy5ypxohu5zlo7hnh65rm)  
-📍 **Location**: Dhaka, Bangladesh
-
+📍 **Location**: Kuril, Dhaka, Bangladesh
 </div>
 
 ---
