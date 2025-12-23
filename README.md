@@ -128,17 +128,12 @@
 🐛 **GitHub**: [nafizurnayem](https://github.com/nafizurnayem)  
 📱 **Facebook**: [nafizurnayeme](https://www.facebook.com/nafizurnayeme/)  
 📸 **Instagram**: [@nafiz.r.n](https://www.instagram.com/nafiz.r.n/)  
-🎓 **Google Scholar**: Md Nafizur Nayem  
-🔬 **ResearchGate**: [Md-Nayem-9](https://www.researchgate.net/profile/Md-Nayem-9)  
-🎵 **Spotify**: [My Profile](https://open.spotify.com/user/31v4sdaoy5ypxohu5zlo7hnh65rm)  
 📍 **Location**: Kuril, Dhaka, Bangladesh
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 "Artificial Intelligence is the new electricity" - Andrew Ng
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nafizurnayem&color=brightgreen&style=for-the-badge)
 
