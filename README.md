@@ -128,6 +128,7 @@
 🐛 **GitHub**: [nafizurnayem](https://github.com/nafizurnayem)  
 📱 **Facebook**: [nafizurnayeme](https://www.facebook.com/nafizurnayeme/)  
 📸 **Instagram**: [@nafiz.r.n](https://www.instagram.com/nafiz.r.n/)  
+☎️ **Phone**: +8801990004054
 📍 **Location**: Kuril, Dhaka, Bangladesh
 </div>
 
