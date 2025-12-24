@@ -82,10 +82,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nafizurnayem&theme=radical&hide_border=true" alt="GitHub Streak" />  </div>
-[](url)
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nafizurnayem&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </div>
 ---
-
 ## 🔥 Featured Projects
 
 ### 🤖 AI/ML Projects
